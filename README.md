@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Gan L. Solidity Smart Contract Engineer Banner" width="100%">
+</p>
 # Solidity Smart Contract Portfolio  
 **Solidity 智能合约组合**
 
